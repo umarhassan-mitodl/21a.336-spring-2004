@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "440cdeec-9024-8479-78f5-bfe3d0db0b64",
+  "instructors": {
+    "content": [
+      "f6f1005e-3478-bdfa-e890-76bc32ef64ae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "82636166-2d16-a8ba-7a98-9c6ec1883528",
+    "website": "21a-336-marketing-microchips-and-mcdonalds-debating-globalization-spring-2004"
+  },
+  "course_title": "Marketing, Microchips and McDonalds: Debating Globalization",
+  "course_description": "Everyday we are bombarded with the word \"global\" and encouraged to see globalization as the quintessential transformation of our age. But what exactly does \"globalization\" mean? How is it affecting the lives of people around the world, not only in economic, but social and cultural terms? How do contemporary changes compare with those from other historical periods? Are such changes positive, negative or simply inevitable? And, finally, how does the concept of the \"global\" itself shape our perceptions in ways that both help us understand the contemporary world and potentially distort it? This course begins by offering a brief overview of historical \"world systems,\" including those centered in Asia as well as Europe. It explores the nature of contemporary transformations, including those in economics, media & information technologies, population flows, and consumer habits, not through abstractions but by focusing on the daily lives of people in various parts of the world. This course considers such topics as the day-to-day impact of computers in Silicon Valley and among Tibetan refugees; the dilemmas of factory workers in the US and rural Java; the attractions of Bombay cinema in Nigeria, the making of rap music in Japan, and the cultural complexities of immigrant life in France. This course seeks not only to understand the various forms globalization takes, but to understand its very different impacts world-wide.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.336",
+  "course_image_thumbnail": {
+    "content": "debc555d-3070-b8d2-f0e5-870ca1a0032f",
+    "website": "21a-336-marketing-microchips-and-mcdonalds-debating-globalization-spring-2004"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "1a7d3682-ff30-4974-b5fe-e0b403b29d00",
+  "site_short_id": "21a.336-spring-2004",
+  "site_url_path": "courses/21a-336-marketing-microchips-and-mcdonalds-debating-globalization-spring-2004",
+  "title": "Course Metadata"
+}
