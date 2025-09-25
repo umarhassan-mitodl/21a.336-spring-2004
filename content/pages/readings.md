@@ -19,7 +19,7 @@ Mintz, Sidney. *Sweetness and Power.* New York: Penguin Books, 1986. ISBN: 97801
 
 Coupland, Douglas. *Microserfs*. Harpercollins; 1st ed edition, 1995. ISBN: 9780060391485.
 
-Marx, Karl, and Fredrich Engels. *The Communist Manifesto.* (\[Download\]({{% resource_link "957348dd-99b8-45cf-9a83-621ede4a3757" "http://www.gutenberg.org/etext/61" %}}  
+Marx, Karl, and Fredrich Engels. *The Communist Manifesto.* (\[Download\]([http://www.gutenberg.org/etext/61](http://www.gutenberg.org/etext/61)  
 ) text from Project Gutenberg.)
 
 Wolf, Diane. *Factory Daughters: Gender, Household Dynamics, and Rural Industrialization in Java.* Berkeley: University of California Press, 1992. ISBN: 9780520070721.
